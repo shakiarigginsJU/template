@@ -1,0 +1,28 @@
+#Student Starter code
+#Student Name:
+#Date:
+#Assignment Title: Simple Sunny Python Code 
+
+# Part 1: Define the variables
+name = "Your Name Here"
+age = 25  # Replace with your actual age
+favorite_number = 7.5  # Replace with your actual favorite number
+
+# Part 2: Print basic information
+print("Hello, my name is", name)
+print("I am", age, "years old.")
+print("My favorite number is", favorite_number)
+
+# Part 3: Calculate the next age
+next_age = age + 1  # Calculate the next year
+print("Next year, I will be", next_age, "years old.")
+
+# Part 4: Ask for user input
+favorite_color = input("What is your favorite color? ")
+print("Your favorite color is", favorite_color)
+
+# Part 5: Perform a simple arithmetic operation
+num1 = float(input("Enter a number: "))
+num2 = float(input("Enter another number: "))
+sum_of_numbers = num1 + num2
+print("The sum of", num1, "and", num2, "is", sum_of_numbers)
